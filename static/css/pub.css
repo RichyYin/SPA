@@ -49,9 +49,9 @@ body h1,body h2,body h3,body h4,body h5,body h6,body strong,body em {font-weight
 textarea:focus,input:focus { border: 1px solid #71b643; }
 
 .hide{ display: none !important;}
-.warpper{ width: 640px; margin: 0 auto; height: 100%; background: url('../static/img/gailou_bg.png') no-repeat;}
+.warpper{ width: 640px; margin: 0 auto; height: 100%; background: url('../../static/img/gailou_bg.png') no-repeat;}
 .building{ margin-top: 445px; width:242px; height: auto; max-height: 340px; overflow: hidden; left: 132px; position: absolute; }
-.floor{ background: url(../static/img/louceng.png) no-repeat; height:69px; line-height: 69px; }
+.floor{ background: url(../../static/img/louceng.png) no-repeat; height:69px; line-height: 69px; }
 .floor_name{ float: right; margin-right: 40px; font-size: 22px;}
 .avatar{ width: 50px; height: 50px; border-radius: 50px; float: left; margin-left: 46px; margin-top: 10px; }
 .cloud{ z-index: 50; bottom: 0; position: absolute; }
